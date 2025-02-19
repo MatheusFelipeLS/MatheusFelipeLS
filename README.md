@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Felipe👋
 
-- 🌱 Estudando JavaScript e Node
+- 🌱 Estudando Pesuisa Operacional
 - 😄 Pronomes: ele/dele
 
 <div>
