@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Felipe👋
 
-- 🌱 Estudando Pesuisa Operacional
+- 🌱 Estudando Pesquisa Operacional
 - 😄 Pronomes: ele/dele
 
 <div>
