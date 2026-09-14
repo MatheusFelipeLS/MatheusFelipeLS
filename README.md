@@ -5,8 +5,6 @@
 
 <div>
   <a href="https://github.com/MatheusFelipeLS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFelipeLS&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipeLS&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <!-- include_all_commits=false& -->
 
