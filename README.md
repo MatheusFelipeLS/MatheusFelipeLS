@@ -1,7 +1,6 @@
-## Olá! Eu sou o Matheus Felipe👋
+## Hi! My name is Matheus Felipe👋
 
-- 🌱 Estudando Pesquisa Operacional
-- 😄 Pronomes: ele/dele
+- 🌱 Interested in: Operational Research, LLM Agents, Artificial Intelligence and Data Science.
 
 <div>
   <a href="https://github.com/MatheusFelipeLS">
